@@ -2,7 +2,7 @@
 """
 Created on Sat Aug  5 19:23:23 2017
 
-@author: 
+@author: https://www.python-course.eu/graphs_python.php
 """
 
 class Graph(object):
